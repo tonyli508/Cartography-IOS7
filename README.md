@@ -1,5 +1,8 @@
 # Cartography :iphone::triangular_ruler:
 
+## IOS 7 Support
+This fork is mainly for IOS 7 support, for how to use Swift pods visit  [IOS 7 Support](https://github.com/tonyli508/ForkmanForSwiftPodsWithIOS7)
+
 <a href="https://travis-ci.org/robb/Cartography?branch=master">
     <img src="https://travis-ci.org/robb/Cartography.svg?branch=master" hspace="6px" align="right" vspace="2px">
 </a>
